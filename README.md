@@ -81,8 +81,3 @@ Prompt engineering is the practice of designing and refining prompts to effectiv
 
 **Explanation:** The improved prompt is specific, mentioning the location (New York City) and time frame (next three days), which helps the AI understand the context and provide more relevant and precise information. The original prompt is too broad and could lead to an unclear or overly general response.
 
-
-Define prompt engineering and discuss its importance in interacting with AI models.
-
-
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
